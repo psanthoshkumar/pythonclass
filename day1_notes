@@ -1,0 +1,38 @@
+github
+https://github.com
+
+
+git download
+https://git-scm.com/download
+
+
+
+git commands:
+git init --> to create local repo
+git add . --> to add local files to local repo
+git commit . -m "updated day1 folder" --> to commit changes
+git add remote origin https://github.com/psanthoshkumar/pythonclass.git --> to add remote repository
+
+git push --> to send files to centralized repo
+
+
+
+Variables:
+x = 10
+y = 20
+
+what is the value of 3x + 5y = ?
+
+
+literals:
+int: decimals, float, complex numbers, binary values (0,1), hexa values(0-9, a-f), octa (0-7)
+
+string: some words
+
+Boolean values: True, False
+
+
+type casting: coverting type of data type
+
+
+

@@ -1,0 +1,16 @@
+github
+https://github.com
+
+
+git download
+https://git-scm.com/download
+
+
+
+git commands:
+git init --> to create local repo
+git add . --> to add local files to local repo
+git commit . -m "updated day1 folder" --> to commit changes
+git add remote origin https://github.com/psanthoshkumar/pythonclass.git --> to add remote repository
+
+git push --> to send files to centralized repo
