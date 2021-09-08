@@ -1,0 +1,13 @@
+# functions
+
+syntax:
+def function_name(arguments...):
+	return xxxxxx
+
+
+example:
+def sumOfTwoNumbers(a, b):
+	return a + b
+
+sumOfTwoNumbers(a, b)
+
