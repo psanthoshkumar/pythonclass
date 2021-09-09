@@ -1,0 +1,74 @@
+convert hello to integer
+
+type casting: 
+
+Str -> int "0" -> 0 "Hello" --> Error
+int -> str 12345 --> "12345" 
+
+str --> bool "Hello" --> True "0" --> False
+boot --> str True --> "True" False --> "False"
+
+
+
+index slicing:
+----------------
+var = "Hello world"
+
+syntax:
+var[lowerLimit:upperlimit:stepsize]
+
+
+reverse a number/string
+var = 12345
+print(str(var)[::-1])
+
+
+
+data types: to validate type: type()
+------------
+int
+float
+complex
+string
+bool
+List <---
+Tuple <---
+dictionary <---
+set
+
+
+int: numbers like 1, 2, 3, 4, 5
+
+float: 1.0, 3.1234, 3.14 etc..
+
+Complex: 3+5j, 6+10j
+
+string: "Hello", "1", "1.0" 
+
+bool: True, False
+
+
+List:
+-----
+Collection of all data types
+list is mutable <-- changable
+
+syntax: [1, "a", 1.0, 3+4j, "Hello", True, "world"]
+
+functions: len(), append()
+
+
+
+
+Tuple:
+------
+Collection of all data types
+Tuple is immutable <-- unchangable
+
+syntax: (1, "a", 1.0, 3+4j, "Hello", True)
+
+
+
+
+
+

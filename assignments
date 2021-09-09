@@ -1,0 +1,14 @@
+1. create an empty list and ad "Hello", "world" elements
+	a. print length of list
+	b. print last index element
+
+2. create a list with 10 elements and remove
+	a. first element from list and print list
+	b. last element from list and print list
+	c. element at index=6 and print list
+
+3. covert string "Hello world" to list data type and write observations
+
+4. write a function to perform math operations (+, -, x, /) and add all results to a list
+	a. use two arguments for a function
+	b. use three arguments for a function
