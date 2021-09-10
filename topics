@@ -1,0 +1,51 @@
+List data type:
+---------------
+
+collection of all other data types
+Mutable <- changeable
+
+Example: [1, "1.0", 1.0, True]
+
+
+functions:s
+
+len()
+append()
+remove()
+del list1[index_number]
+list1.reverse()
+
+
+Tuple Data type:
+-------------------
+collection of all other data types but its immutable <-- unchangeable
+
+
+Example: (1, 1.0, "1.0", True)
+
+
+
+Dictionary:
+-----------
+
+Syntax: {key:value, key:value}
+
+
+Example:
+---------
+dict1 = {1:"value 1", 2: "value 2", 3: "value 3"}
+dict2 = {
+			"name": "Chay", 
+			"age": 26, 
+			"School": "UNT"
+		}
+
+
+
+
+Set:
+------
+
+
+
+

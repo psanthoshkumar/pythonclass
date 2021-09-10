@@ -1,0 +1,18 @@
+1. identify data types for following
+	a. [{"a", "b"}, ["Hello", "World"], ["Super", ["simple", "data type"]]]
+	b. {
+			"name": "Sam",
+			"age" : 26,
+			"Experience": ["UNT", "UM", "AMEX"],
+			address: {
+				"arizona" : "North PHX",
+				"texas"	:	"Dallas",
+				"Michigan":	"Detroit",
+			}
+		}
+
+2. retrive Sam Michgan address value
+3. covert 1.a to dict and find length.
+4. write a function to perform math operations(+,-,x,/) and place results in dict.
+	a. math operations on 2 arguments
+	b. math operations on 3 arguments
