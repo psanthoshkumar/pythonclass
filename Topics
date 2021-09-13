@@ -1,0 +1,27 @@
+Topics:
+-------- 
+
+
+Input, Output and import:
+--------------------------
+
+
+
+output:
+-------
+
+print()
+format()
+f'' -> F string
+
+
+Input:
+------
+command line arguments
+
+
+
+Import:
+--------
+
+import math

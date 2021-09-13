@@ -1,0 +1,4 @@
+1. enter a sentence as command line arguments and covert into list using split()
+2. perform reverse of a number by taking input from CLI(command line input)
+3. Enter a number from CLI and print binary format of that number
+4. give 3 numbers from CLI and add them to a list.
