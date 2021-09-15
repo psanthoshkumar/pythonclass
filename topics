@@ -1,0 +1,19 @@
+topics:
+--------
+
+
+import:
+-------
+math package
+
+math.ceil() Ex: 5.677 --> 5.7
+math.floor() Ex: 5.67 --> 5.5
+math.factorial() Ex: 5! --> 5x4x3x2x1
+
+
+3rd packages:
+-------------
+installation:
+-------------
+1. using python: python -m pip install requests
+2. pip: pip install requests
