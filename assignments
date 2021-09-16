@@ -1,0 +1,8 @@
+1. Generate 6 digit OTP
+2. Generate a random number, verify if that is even number or not
+3. read sys library and use sys module for command line argument
+    Ex: python3 sum.py
+        enter a value: 10
+        enter b value: 20
+    by using sys: python3 sum.py 10 20
+4. use choice() function from random library to print random choice.
