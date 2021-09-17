@@ -1,0 +1,61 @@
+Operations:
+------------
+
+
+Arithmetic operators:
+----------------------
++ ==> Two add numbers
+- ==> subtract
+* ==> Multiply
+/ ==> divide
+% ==> remainder
+** ==> x**y ==> 2**2 - 2x2, 2**3 - 2x2x2
+
+
+Comparison operators:
+---------------------
+Grater than     --> >
+Less than       --> <
+Equals to       --> ==
+not Equals to   --> !=
+less than or equals to      --> <=
+Greater than or equals to   --> >=
+
+
+Logical Operators:
+-------------------
+1. AND operator   ---> x and y
+x  y   z
+--------
+0  0   0 <-- off
+0  1   0 <-- off
+1  0   0 <-- off
+1  1   1 <-- on
+
+
+2. OR Operators
+x  y   z        --->  x or y
+--------
+0  0   0 <-- off
+0  1   1 <-- on
+1  0   1 <-- on
+1  1   1 <-- on
+
+
+3. not operators   ---> not x
+
+
+Special operators:
+------------------
+
+is
+is not
+
+
+a = 10
+a is True:
+    valid condition
+
+a is not True:
+    valid condition
+
