@@ -1,0 +1,42 @@
+Flow controls
+-------------
+
+1. if.. else..
+
+
+syntax:
+-------
+1. only IF:
+------------
+if x>=10: print("x is greater than 10")
+
+
+2. if and else:
+----------------
+if x>=10:
+    print("X is greater than or equals to 10)
+else:
+    print("x is less than 10")
+
+
+3. if..elif..else:
+-------------------
+if x>10:
+    print("X is greater than 10")
+elif x=10:
+    print("x equals to 10")
+else:
+    print("x is less than 10")
+
+
+4.if..elif........else:
+-------------------------
+x = "Hello"
+if x>10:
+    print("x is greater than 10")
+elif x=10:
+    print("x equals to 10")
+elif x<10:
+    print("x is less than 10")
+else:
+    print("X value is {}".format(x))
