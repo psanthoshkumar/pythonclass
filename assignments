@@ -1,0 +1,18 @@
+1. Write a program to display "Hello" if a number entered by user is a multiple of five, otherwise print "Bye"
+2. Write a program to calculate the electricity bill (accept number of unit from user) according to the following criteria :
+     Unit                                                     Price
+First 100 units                                               no charge
+Next 100 units                                              Rs 5 per unit
+After 200 units                                             Rs 10 per unit
+3. Write a program to display the last digit of a number.
+(hint : any number % 10 will return the last digit)
+4. Write a program to check whether the last digit of a number( entered by user ) is
+divisible by 3 or not.
+5. Write a program to accept percentage from the user and display the grade according to the following criteria:
+
+         Marks               Grade
+         > 90                   A
+         > 80 and <= 90         B
+         >= 60 and <= 80        C
+         below 60               D
+6. Write a program to accept a number from 1 to 7 and display the name of the day like 1 for Sunday , 2 for Monday and so on.
